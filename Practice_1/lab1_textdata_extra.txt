@@ -1,0 +1,5 @@
+This course explores how to design reliable discriminative and generative neural networks, the ethics of data acquisition and model deployment, as well as modern multi-modal models.
+This course equips students with a comprehensive foundation of modern deep learning, enabling students to design and train discriminative and generative neural networks for a wide range of tasks.
+
+This is an extra sentence )(*& for cleaning purposes %^&: here is a toy e-mail for practice exercise: toy_email@gmail.com . pls do not use this email. 
+NOTE: the above e-mail doesn't exists. 
